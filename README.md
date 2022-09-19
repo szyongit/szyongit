@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Szyon (@szyongit)!
-- 👀 I’m interested in programming and mainly code in ☕Java☕.
+- 👀 I’m interested in programming and mainly code in Java.
 - 🌱 I’m currently learning C++, C# and Unity.
 - 📫 You can reach me via Discord (Szyon#2292)
 
