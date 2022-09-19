@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szyongit!
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming and mainly code in ☕Java☕ or 📱Kotlin📱.
 - 🌱 I’m currently learning C++, C# and Unity.
 - 📫 How to reach me via Discord (Szyon#2292)
 
