@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Szyon*** (@szyongit)!
 - 👀 I’m interested in programming and mainly code in ***Java***!
-- 🌱 I’m currently learning ***mern stack for web development***! <!---but I am looking forward to ***other languages***!--->
+- 🌱 I’m currently learning ***MERN stack for web development***! <!---but I am looking forward to ***other languages***!--->
 - 📫 You can reach me via ***Szyon#2292 on Discord***!
 
 <!---
