@@ -3,7 +3,7 @@
 - 👋 Hi, I’m ***Szyon*** (@szyongit)!
 - 👀 I’m interested in programming and mainly code in ***Java***!
 - 🌱 I’m currently learning ***MERN stack for web development*** & ***discord.js***!
-- 📫 You can reach me via ***szyon*** on Discord!<br/>
+- 📫 You can reach me via ***szyon*** on Discord!<br/><br/><br/>
 
 
 ### 🛠️GitHubStats:
