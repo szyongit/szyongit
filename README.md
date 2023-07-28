@@ -6,8 +6,9 @@
 - 📫 You can reach me via ***szyon*** on Discord!<br/>
 
 ### 🛠️GitHubStats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)<br/>
 ![Top Languages Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)<br/>
+
 
 <!---
 szyongit/szyongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
