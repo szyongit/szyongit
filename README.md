@@ -8,7 +8,7 @@
 
 ### 🛠️GitHubStats:
 <img src="https://github-readme-stats.vercel.app/api?username=szyongit&theme=tokyonight" alt="stats" width="430px" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=tokyonight" align="center"/>
 
 <!---![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)--->
 
