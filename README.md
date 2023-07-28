@@ -7,7 +7,9 @@
 
 
 ### 🛠️GitHubStats:
-![Top Languages Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&theme=tokyonight)<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=szyongit&theme=tokyonight" alt="stats" width="430px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=tokyonight" />
+
 <!---![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)--->
 
 
