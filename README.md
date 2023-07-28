@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ***MERN stack for web development*** & ***discord.js***!
 - 📫 You can reach me via ***szyon*** on Discord!<br/>
 
+<br/>
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)<br/>
 ![Top Languages Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&theme=tokyonight)
 
