@@ -1,7 +1,7 @@
 ### 👋 About me:
 
 - 👋 Hi, I’m ***Szyon*** (@szyongit)!
-- 👀 I’m interested in programming and mainly code in ***Javascript & Java***!
+- 👀 I’m interested in programming and mainly code in ***Javascript*** & ***Java***!
 - 🌱 I’m currently learning ***MERN stack for web development*** & ***discord.js***!
 - 📫 You can reach me via ***szyon*** on Discord!<br/><br/><br/>
 
