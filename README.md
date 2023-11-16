@@ -7,6 +7,7 @@
 
 
 ### 🛠️GitHub Stats:
+<img src="https://komarev.com/ghpvc/?username=szyongit&style=flat-square&color=blue"/>
 <img src="https://github-readme-stats.vercel.app/api?username=szyongit&theme=tokyonight" width="430px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=tokyonight" />
 
