@@ -4,13 +4,13 @@
 - 👀 I work as an EMT and study Computer Science since 2025!
 - 🌱 I’m currently learning ***C++*** by myself & trying to improve my ***Webdevelopment skills***!
 - 👩‍💻 My main programming languages are ***Typescript*** and ***Java*** and the moment.
-- 📫 You can reach me via ***szyon*** on Discord!<br/><br/><br/>
+- 📫 You can reach me via ***szyon*** on Discord!
 
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
-![HTML](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=css)
+![HTML](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/637347742766858250)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/637347742766858250)<br\>
 [![Twitch](https://img.shields.io/badge/Twitch-Stream%20Now-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/szyontv)
 
 ---
