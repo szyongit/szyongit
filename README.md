@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-[![Discord](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=discord)](https://discordapp.com/users/637347742766858250)
+[![Discord](https://img.shields.io/discord/637347742766858250)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://szyon.at)
 
 ---
