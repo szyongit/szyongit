@@ -20,20 +20,6 @@
 
 <br/><br/><br/>
 
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-*Feel free to add or change these!*
-
----
-
 ### 📈 GitHub Stats
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=szyongit&show_icons=true&theme=radical)
@@ -44,9 +30,8 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=discord)](https://discordapp.com/users/637347742766858250)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://szyon.at)
 
 ---
 
