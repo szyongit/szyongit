@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-React-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -16,11 +16,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-<br/><br/><br/>
-
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=onedark)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=onedark)
 
 ---
 
