@@ -31,7 +31,7 @@
 ### 📫 Let's Connect
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/637347742766858250)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://szyon.at)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
 
