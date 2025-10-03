@@ -29,8 +29,9 @@
 ---
 
 ### 📫 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=chrome&logoColor=white)](https://szyon.at)<br/>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/637347742766858250)
+
+[![Twitch](https://img.shields.io/badge/Twitch-Stream%20Now-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/szyontv)
 
 ---
 
