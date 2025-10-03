@@ -16,21 +16,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=tokyonight" />
-
 <br/><br/><br/>
 
 ### 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=szyongit&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=onedark)
 
 ---
 
 ### 📫 Let's Connect
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/637347742766858250)
-
 [![Twitch](https://img.shields.io/badge/Twitch-Stream%20Now-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/szyontv)
 
 ---
