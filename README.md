@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m ***Szyon*** (@szyongit)!
 - 👀 I work as an EMT and study Computer Science since 2025!
-- 🌱 I’m currently learning ***C++*** by myself & try to improve my ***webdevelopment skills***!
+- 🌱 I’m currently learning ***C++*** by myself & trying to improve my ***Webdevelopment skills***!
+- 👩‍💻 My main programming languages are ***Typescript*** and ***Java*** and the moment.
 - 📫 You can reach me via ***szyon*** on Discord!<br/><br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyongit&layout=compact&theme=tokyonight" />
