@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
 ![HTML](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
